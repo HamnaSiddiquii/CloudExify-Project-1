@@ -1,0 +1,34 @@
+==================================================
+              SALES ANALYSIS REPORT             
+==================================================
+Total Records: 1150
+Date Range: 2026-01-01 to 2026-06-30
+Total Revenue: Rs 143,923,000
+Average Sale: Rs 125,150
+Median Sale: Rs 40,000
+Std Dev: Rs 213,104
+
+--------------------------------------------------
+Category Comparison:
+--------------------------------------------------
+                  Amount  Units
+Category                       
+Accessories    8068000.0   1687
+Audio          4290000.0    572
+Electronics  107715000.0   1746
+Furniture     15375000.0    615
+Office          855000.0    570
+Storage        7620000.0    508
+
+--------------------------------------------------
+Top 5 Products:
+--------------------------------------------------
+Product
+Laptop                 80640000.0
+4K Monitor             23805000.0
+Ergonomic Chair        15375000.0
+External SSD            7620000.0
+Mechanical Keyboard     4776000.0
+
+Best Month: 2026-03
+==================================================
